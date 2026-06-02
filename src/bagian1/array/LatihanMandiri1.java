@@ -47,7 +47,7 @@ public class LatihanMandiri1 {
                     }
 
                 }
-                System.out.println("------------------------------------------");
+                System.out.println("------------------------------------------"); 
            }
            
 }
