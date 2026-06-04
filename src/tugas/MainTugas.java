@@ -1,3 +1,6 @@
+// Nama : Akbar Faiz Abdillah
+// NPM : 2410010159
+
 package tugas;
 
 public class MainTugas {
